@@ -20,5 +20,5 @@ This project simulates a real-world healthcare call center (similar to 937 opera
 * **Peak Hours:** Identified call volume trends throughout the day to optimize agent allocation.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](Dashboard_call_center.png)
+![Dashboard Preview](Screenshot 2026-10-02 125054.png)
 *(Note: Replace the image name above with your actual uploaded image file name in GitHub)*
