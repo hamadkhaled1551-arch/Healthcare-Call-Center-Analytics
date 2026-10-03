@@ -19,6 +19,4 @@ This project simulates a real-world healthcare call center (similar to 937 opera
 * **SLA Compliance:** Tracked the percentage of calls answered within the target threshold (<= 20 seconds).
 * **Peak Hours:** Identified call volume trends throughout the day to optimize agent allocation.
 
-## 🖼️ Dashboard Preview
-![Dashboard Preview](Dashboard_call_center.png)
-*(Note: Replace the image name above with your actual uploaded image file name in GitHub)*
+
